@@ -7,12 +7,6 @@ When you start your machine learning journey, you go with simple machine learnin
 This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music.
 
 
-NOTE: You can download the audio files from here
-
-
-For a detailed description of the dataset and how it was compiled please refer to the paper.
-
-
 The attributes of data are as follows:
 
 ID – Unique ID of sound excerpt
